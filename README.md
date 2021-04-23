@@ -16,7 +16,7 @@ $ kubectl apply -f kubevirt-operator.yaml
 ```
 $ kubectl create configmap kubevirt-config -n kubevirt --from-literal debug.useEmulation=true
 # OR
-$ kubectl apply -f kubevirt-configmap.yaml
+$ kubectl apply -f ./1-setup/kubevirt-configmap.yaml
 ```
 
 ### Custom Resource
