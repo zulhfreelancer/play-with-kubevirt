@@ -91,7 +91,7 @@ $ virtctl stop testvm
 $ kubectl delete vm testvm
 ```
 
-### Resources
+## Resources
 
 - https://kubevirt.io
 - https://youtu.be/Z9hBIoO4KOs
