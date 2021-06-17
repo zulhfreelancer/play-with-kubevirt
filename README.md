@@ -94,4 +94,5 @@ $ kubectl delete vm testvm
 ### Resources
 
 - https://kubevirt.io
+- https://youtu.be/Z9hBIoO4KOs
 - https://github.com/davidvossel/kubevirt-demo-manifests
