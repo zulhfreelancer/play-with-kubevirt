@@ -90,3 +90,8 @@ $ virtctl stop testvm
 # delete VM (will delete VM first, followed by VMI - might take a while for the VMI to get deleted)
 $ kubectl delete vm testvm
 ```
+
+### Resources
+
+- https://kubevirt.io
+- https://github.com/davidvossel/kubevirt-demo-manifests
